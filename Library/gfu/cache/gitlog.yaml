@@ -1,0 +1,644 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-02-07T16:51:04.729-08:00
+  initializedAtString: 2019-02-07T16:46:20.138-08:00
+  log:
+  - commitID: 416e45af3bef926db183fb6c30fb11ee6f5ee7a5
+    mergeA: 
+    mergeB: 
+    authorName: Nick Piatt
+    authorEmail: developer.piatt@gmail.com
+    commitEmail: developer.piatt@gmail.com
+    commitName: Nick Piatt
+    summary: initial commit
+    description: initial commit
+    timeString: 2019-02-07T16:51:04.000-08:00
+    commitTimeString: 2019-02-07T16:51:04.000-08:00
+    changes:
+    - path: .collabignore
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/.collabignore
+      projectPath: .collabignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .vscode/settings.json
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/.vscode/settings.json
+      projectPath: .vscode/settings.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Animations.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Animations.meta
+      projectPath: Assets/Animations.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Animations/Panel Fade Controller.controller
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Animations/Panel Fade
+        Controller.controller
+      projectPath: Assets/Animations/Panel Fade Controller.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Animations/Panel Fade Controller.controller.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Animations/Panel Fade
+        Controller.controller.meta
+      projectPath: Assets/Animations/Panel Fade Controller.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Animations/mainFadeIn.anim
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Animations/mainFadeIn.anim
+      projectPath: Assets/Animations/mainFadeIn.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Animations/mainFadeIn.anim.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Animations/mainFadeIn.anim.meta
+      projectPath: Assets/Animations/mainFadeIn.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Animations/mainFadeOut.anim
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Animations/mainFadeOut.anim
+      projectPath: Assets/Animations/mainFadeOut.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Animations/mainFadeOut.anim.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Animations/mainFadeOut.anim.meta
+      projectPath: Assets/Animations/mainFadeOut.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Animations/mainIdle.anim
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Animations/mainIdle.anim
+      projectPath: Assets/Animations/mainIdle.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Animations/mainIdle.anim.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Animations/mainIdle.anim.meta
+      projectPath: Assets/Animations/mainIdle.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Images.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Images.meta
+      projectPath: Assets/Images.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Images/persona-5-4k-ym-640x960.jpg
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Images/persona-5-4k-ym-640x960.jpg
+      projectPath: Assets/Images/persona-5-4k-ym-640x960.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Images/persona-5-4k-ym-640x960.jpg.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Images/persona-5-4k-ym-640x960.jpg.meta
+      projectPath: Assets/Images/persona-5-4k-ym-640x960.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins.meta
+      projectPath: Assets/Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub.meta
+      projectPath: Assets/Plugins/GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor.meta
+      projectPath: Assets/Plugins/GitHub/Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      projectPath: Assets/Plugins/GitHub/Editor/QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/System.Threading.dll
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      projectPath: Assets/Plugins/GitHub/Editor/UnityAPIWrapper.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      projectPath: Assets/Plugins/GitHub/Editor/big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/credits.txt
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/credits.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/eula.txt
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/eula.txt.meta
+      projectPath: Assets/Plugins/GitHub/Editor/eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/libsfw.bundle
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/libsfw.so
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      projectPath: Assets/Plugins/GitHub/Editor/libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/sfw.net.dll
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/x64.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x64/sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/x86.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      projectPath: Assets/Plugins/GitHub/Editor/x86/sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scenes.meta
+      projectPath: Assets/Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/FusionCalcScene.unity
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scenes/FusionCalcScene.unity
+      projectPath: Assets/Scenes/FusionCalcScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/FusionCalcScene.unity.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scenes/FusionCalcScene.unity.meta
+      projectPath: Assets/Scenes/FusionCalcScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/MainScene.unity
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scenes/MainScene.unity
+      projectPath: Assets/Scenes/MainScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/MainScene.unity.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scenes/MainScene.unity.meta
+      projectPath: Assets/Scenes/MainScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/PersonasScene.unity
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scenes/PersonasScene.unity
+      projectPath: Assets/Scenes/PersonasScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/PersonasScene.unity.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scenes/PersonasScene.unity.meta
+      projectPath: Assets/Scenes/PersonasScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/ProfilesScene.unity
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scenes/ProfilesScene.unity
+      projectPath: Assets/Scenes/ProfilesScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/ProfilesScene.unity.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scenes/ProfilesScene.unity.meta
+      projectPath: Assets/Scenes/ProfilesScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/ShadowsScene.unity
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scenes/ShadowsScene.unity
+      projectPath: Assets/Scenes/ShadowsScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scenes/ShadowsScene.unity.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scenes/ShadowsScene.unity.meta
+      projectPath: Assets/Scenes/ShadowsScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scripts.meta
+      projectPath: Assets/Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/SceneTransitions.cs
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scripts/SceneTransitions.cs
+      projectPath: Assets/Scripts/SceneTransitions.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/Scripts/SceneTransitions.cs.meta
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/Scripts/SceneTransitions.cs.meta
+      projectPath: Assets/Scripts/SceneTransitions.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages/manifest.json
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Packages/manifest.json
+      projectPath: Packages/manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/AudioManager.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/AudioManager.asset
+      projectPath: ProjectSettings/AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ClusterInputManager.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/ClusterInputManager.asset
+      projectPath: ProjectSettings/ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/DynamicsManager.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/DynamicsManager.asset
+      projectPath: ProjectSettings/DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/EditorBuildSettings.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/EditorBuildSettings.asset
+      projectPath: ProjectSettings/EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/EditorSettings.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/EditorSettings.asset
+      projectPath: ProjectSettings/EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/GraphicsSettings.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/GraphicsSettings.asset
+      projectPath: ProjectSettings/GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/InputManager.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/InputManager.asset
+      projectPath: ProjectSettings/InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/NavMeshAreas.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/NavMeshAreas.asset
+      projectPath: ProjectSettings/NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/Physics2DSettings.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/Physics2DSettings.asset
+      projectPath: ProjectSettings/Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/PresetManager.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/PresetManager.asset
+      projectPath: ProjectSettings/PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/ProjectVersion.txt
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/ProjectVersion.txt
+      projectPath: ProjectSettings/ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/QualitySettings.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/QualitySettings.asset
+      projectPath: ProjectSettings/QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/TagManager.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/TimeManager.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/TimeManager.asset
+      projectPath: ProjectSettings/TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/UnityConnectSettings.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/UnityConnectSettings.asset
+      projectPath: ProjectSettings/UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings/VFXManager.asset
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/ProjectSettings/VFXManager.asset
+      projectPath: ProjectSettings/VFXManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 95c94a82e746a8f83b1204fe36708bf0dcdf063f
+    mergeA: 
+    mergeB: 
+    authorName: Nick Piatt
+    authorEmail: piattn@Regulus.cws.oregonstate.edu
+    commitEmail: piattn@Regulus.cws.oregonstate.edu
+    commitName: Nick Piatt
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2019-02-07T16:46:19.000-08:00
+    commitTimeString: 2019-02-07T16:46:19.000-08:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/piattn/Unity/P5 Fusion Calculator/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
