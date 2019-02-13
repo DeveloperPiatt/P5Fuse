@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\PopulatePersonaTable.cs" />
      <Compile Include="Assets\Scripts\SceneTransitions.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/piattn/Unity/P5Fuse/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
