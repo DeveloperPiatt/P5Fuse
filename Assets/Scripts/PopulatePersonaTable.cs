@@ -13,7 +13,6 @@ public class PopulatePersonaTable : MonoBehaviour
     void Start()
     {
         for (int i=0; i< ROWCOUNT; i++) {
-            Debug.Log("testing");
              GameObject go1 = (GameObject)Instantiate(personaTableRow, Vector3.zero, Quaternion.identity);
              go1.transform.SetParent(scrollView.transform, false);
         }
